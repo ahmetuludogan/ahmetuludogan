@@ -57,26 +57,8 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
     <td align="center" width="25%" valign="top"><img src="assets/ios-catchthekenny.webp" alt="CatchTheKenny" width="100%"><br><b><a href="https://github.com/ahmetuludogan/CatchTheKenny">CatchTheKenny</a></b><br><sub>Zamanlı dokunma oyunu · Timer</sub></td>
     <td align="center" width="25%" valign="top"><img src="assets/ios-simplecalculator.webp" alt="SimpleCalculator" width="100%"><br><b><a href="https://github.com/ahmetuludogan/Simple-Calculator">SimpleCalculator</a></b><br><sub>Hesap makinesi</sub></td>
   </tr>
-  <tr>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-alertproject.webp" alt="AlertProject" width="100%"><br><b><a href="https://github.com/ahmetuludogan/AlertProject">AlertProject</a></b><br><sub>Form doğrulama ve uyarılar</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-landmarkbook.webp" alt="LandmarkBook" width="100%"><br><b>LandmarkBook</b><br><sub>Liste ve detay ekranı · UITableView</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-simpsonbook.webp" alt="SimpsonBook" width="100%"><br><b>SimpsonBook</b><br><sub>Liste ve detay ekranı · UITableView</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-birthdaynotetaker.webp" alt="BirthdayNoteTaker" width="100%"><br><b>BirthdayNoteTaker</b><br><sub>Not kaydı · UserDefaults</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-timerproject.webp" alt="TimerProject" width="100%"><br><b>TimerProject</b><br><sub>Geri sayım sayacı · Timer</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-segueapp.webp" alt="SegueApp" width="100%"><br><b>SegueApp</b><br><sub>Ekranlar arası veri aktarımı</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-gesturerecognizer.webp" alt="GestureRecognizer" width="100%"><br><b>GestureRecognizer</b><br><sub>Dokunma hareketleri</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-projectlayout.webp" alt="ProjectLayout" width="100%"><br><b>ProjectLayout</b><br><sub>Auto Layout yerleşimi</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-objectwithcode.webp" alt="ObjectWithCode" width="100%"><br><b>ObjectWithCode</b><br><sub>Kodla oluşturulan arayüz</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-swiftui.webp" alt="SwiftUI" width="100%"><br><b>SwiftUI</b><br><sub>SwiftUI denemesi</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-firstapp.webp" alt="FirstApp" width="100%"><br><b>FirstApp</b><br><sub>İlk UIKit uygulaması</sub></td>
-  </tr>
 </table>
 
-<sub>UIKit ile yazılmış eğitim ve deneme projeleri; her biri tek ekranla gösterildi.</sub>
 
 <br>
 <!-- IOS-IZGARA-SON -->
