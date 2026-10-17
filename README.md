@@ -15,17 +15,12 @@ Sipariş alımından son teslimata kadar lojistik operasyonlarını yöneten yaz
 
 ### Novajet — Son kilometre teslimat platformu
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/novajet-bolgeler-dark.webp">
-  <img alt="Novajet operasyon paneli — bölge haritası" src="assets/novajet-bolgeler-light.webp" width="100%">
-</picture>
-
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/novajet-filo-dark.webp">
-    <img alt="Kurye performansı — filo rotaları" src="assets/novajet-filo-light.webp" width="76%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/novajet-bolgeler-dark.webp">
+    <img alt="Novajet operasyon paneli — bölge haritası" src="assets/novajet-bolgeler-light.webp" width="74%">
   </picture>
-  <img alt="Kurye uygulaması — ana ekran" src="assets/novajet-kurye.webp" width="22%">
+  <img alt="Novajet kurye uygulaması — ana ekran" src="assets/novajet-kurye.webp" width="24%">
 </p>
 
 Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği çok kiracılı teslimat platformu.
@@ -44,10 +39,7 @@ Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği
 
 ### Temiz Çal — Spotify için içerik filtresi
 
-<p>
-  <img alt="Temiz Çal — kısma zaman çizelgesi" src="assets/temizcal-nasil.webp" width="72%">
-  <img alt="Temiz Çal — Spotify üzerindeki kontrol paneli" src="assets/temizcal-panel.webp" width="24%">
-</p>
+<img alt="Temiz Çal — kısma zaman çizelgesi" src="assets/temizcal-nasil.webp" width="62%">
 
 Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği anlarda sesi kısan filtre. Zaman damgalı sözlerden saniye hassasiyetinde bir kısma planı çıkarır; sözü bulunmayan şarkılar için konuşma tanıma (Whisper) ile zaman damgası üretir.
 
@@ -55,19 +47,39 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
 
 <br>
 
-### [TravelBook](https://github.com/ahmetuludogan/TravelBook) — iOS
+<!-- IOS-IZGARA-BAS -->
+## iOS projeleri (Swift)
 
-<p>
-  <img alt="TravelBook — kayıtlı yerler" src="assets/ios-travelbook-liste.webp" width="28%">
-  &nbsp;
-  <img alt="TravelBook — harita ekranı" src="assets/ios-travelbook-harita.webp" width="28%">
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-travelbook-harita.webp" alt="TravelBook" width="100%"><br><b><a href="https://github.com/ahmetuludogan/TravelBook">TravelBook</a></b><br><sub>Harita ve kayıtlı yerler · MapKit, Core Data</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-artbook.webp" alt="ArtBook" width="100%"><br><b>ArtBook</b><br><sub>Fotoğraflı kayıt defteri · Core Data</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-catchthekenny.webp" alt="CatchTheKenny" width="100%"><br><b><a href="https://github.com/ahmetuludogan/CatchTheKenny">CatchTheKenny</a></b><br><sub>Zamanlı dokunma oyunu · Timer</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-simplecalculator.webp" alt="SimpleCalculator" width="100%"><br><b><a href="https://github.com/ahmetuludogan/Simple-Calculator">SimpleCalculator</a></b><br><sub>Hesap makinesi</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-alertproject.webp" alt="AlertProject" width="100%"><br><b><a href="https://github.com/ahmetuludogan/AlertProject">AlertProject</a></b><br><sub>Form doğrulama ve uyarılar</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-landmarkbook.webp" alt="LandmarkBook" width="100%"><br><b>LandmarkBook</b><br><sub>Liste ve detay ekranı · UITableView</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-simpsonbook.webp" alt="SimpsonBook" width="100%"><br><b>SimpsonBook</b><br><sub>Liste ve detay ekranı · UITableView</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-birthdaynotetaker.webp" alt="BirthdayNoteTaker" width="100%"><br><b>BirthdayNoteTaker</b><br><sub>Not kaydı · UserDefaults</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-timerproject.webp" alt="TimerProject" width="100%"><br><b>TimerProject</b><br><sub>Geri sayım sayacı · Timer</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-segueapp.webp" alt="SegueApp" width="100%"><br><b>SegueApp</b><br><sub>Ekranlar arası veri aktarımı</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-gesturerecognizer.webp" alt="GestureRecognizer" width="100%"><br><b>GestureRecognizer</b><br><sub>Dokunma hareketleri</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-projectlayout.webp" alt="ProjectLayout" width="100%"><br><b>ProjectLayout</b><br><sub>Auto Layout yerleşimi</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-objectwithcode.webp" alt="ObjectWithCode" width="100%"><br><b>ObjectWithCode</b><br><sub>Kodla oluşturulan arayüz</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-swiftui.webp" alt="SwiftUI" width="100%"><br><b>SwiftUI</b><br><sub>SwiftUI denemesi</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-firstapp.webp" alt="FirstApp" width="100%"><br><b>FirstApp</b><br><sub>İlk UIKit uygulaması</sub></td>
+  </tr>
+</table>
 
-Gezilen yerleri haritada işaretleyip notlarıyla birlikte cihazda saklayan iOS uygulaması.
-
-**Teknoloji:** Swift, UIKit, MapKit, Core Location, Core Data
+<sub>UIKit ile yazılmış eğitim ve deneme projeleri; her biri tek ekranla gösterildi.</sub>
 
 <br>
+<!-- IOS-IZGARA-SON -->
 
 ## Teknoloji
 
