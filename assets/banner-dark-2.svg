@@ -13,7 +13,7 @@
   <rect x=".5" y=".5" width="1279" height="299" rx="15.5" fill="none" stroke="#1E293B"/>
   <text x="72" y="104" class="k">BİLGİSAYAR MÜHENDİSİ</text>
   <text x="72" y="164" class="n">Ahmet Uludoğan</text>
-  <text x="72" y="208" class="t">Lojistik ve operasyon yazılımları · İstanbul</text>
+  <text x="72" y="208" class="t">İstanbul</text>
   <path class="route" d="M760 210 C 820 210, 840 120, 905 120 S 985 200, 1050 170 S 1130 80, 1200 92"/>
   <circle class="pulse" cx="760" cy="210" r="14"/>
   <circle class="pulse b" cx="905" cy="120" r="14"/>
