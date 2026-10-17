@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-2.svg">
-  <img alt="Ahmet Uludoğan — Bilgisayar Mühendisi" src="assets/banner-light-2.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-3.svg">
+  <img alt="Ahmet Uludoğan — Bilgisayar Mühendisi" src="assets/banner-light-3.svg" width="100%">
 </picture>
 
 <br>
