@@ -20,7 +20,7 @@ Sipariş alımından son teslimata kadar lojistik operasyonlarını yöneten yaz
     <source media="(prefers-color-scheme: dark)" srcset="assets/novajet-bolgeler-dark.webp">
     <img alt="Novajet operasyon paneli — bölge haritası" src="assets/novajet-bolgeler-light.webp" width="76%">
   </picture>
-  <img alt="Novajet kurye uygulaması — ana ekran" src="assets/novajet-kurye-2.webp" width="22%">
+  <img alt="Novajet kurye uygulaması — dağıtım rotası" src="assets/novajet-kurye-rota.webp" width="22%">
 </p>
 
 Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği çok kiracılı teslimat platformu.
