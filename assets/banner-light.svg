@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Ahmet Uludoğan — Bilgisayar Mühendisi">
+  <style>
+    .n{font:600 46px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0F172A;letter-spacing:-.5px}
+    .t{font:400 22px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#475569}
+    .k{font:500 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#2563EB;letter-spacing:2px}
+    .route{fill:none;stroke:#2563EB;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:10 9;opacity:.75}
+    .pulse{fill:#2563EB;opacity:.35;transform-box:fill-box;transform-origin:center;animation:p 2.4s ease-out infinite}
+    .pulse.b{animation-delay:.8s}.pulse.c{animation-delay:1.6s}
+    @keyframes p{0%{transform:scale(.6);opacity:.5}100%{transform:scale(2.4);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <rect width="1280" height="300" rx="16" fill="#FFFFFF"/>
+  <rect x=".5" y=".5" width="1279" height="299" rx="15.5" fill="none" stroke="#E2E8F0"/>
+  <text x="72" y="104" class="k">BİLGİSAYAR MÜHENDİSİ</text>
+  <text x="72" y="164" class="n">Ahmet Uludoğan</text>
+  <text x="72" y="208" class="t">Lojistik ve operasyon yazılımları · İstanbul</text>
+  <path class="route" d="M760 210 C 820 210, 840 120, 905 120 S 985 200, 1050 170 S 1130 80, 1200 92"/>
+  <circle class="pulse" cx="760" cy="210" r="14"/>
+  <circle class="pulse b" cx="905" cy="120" r="14"/>
+  <circle class="pulse c" cx="1200" cy="92" r="14"/>
+  <circle cx="760" cy="210" r="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+  <circle cx="905" cy="120" r="7" fill="#FFFFFF" stroke="#2563EB" stroke-width="3"/>
+  <circle cx="1050" cy="170" r="6" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2"/>
+  <circle cx="1200" cy="92" r="9" fill="#2563EB"/>
+</svg>
