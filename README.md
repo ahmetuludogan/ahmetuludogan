@@ -5,9 +5,9 @@
 
 <br>
 
-Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Hem işimi kolaylaştıran hem de kişisel kullanım için yazılımlar geliştiriyorum.
+Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğüm ihtiyaçlardan yola çıkarak hem işimi kolaylaştıran hem de kişisel yazılımlar geliştiriyorum.
 
-**Operasyon yönetimi** &nbsp;·&nbsp; **İş akışı otomasyonu** &nbsp;·&nbsp; **Kişisel projeler**
+**Operasyon** &nbsp;·&nbsp; **Otomasyon** &nbsp;·&nbsp; **Kişisel projeler**
 
 <br>
 
