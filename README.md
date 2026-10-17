@@ -5,9 +5,9 @@
 
 <br>
 
-Sipariş alımından son teslimata kadar lojistik operasyonlarını yöneten yazılımlar tasarlıyor ve geliştiriyorum. Odak alanım çok kiracılı SaaS mimarisi, rota optimizasyonu ve operasyon otomasyonu.
+Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Hem işimi kolaylaştıran hem de kişisel kullanım için yazılımlar geliştiriyorum.
 
-**Lojistik platformları** &nbsp;·&nbsp; **Rota ve kurye atama** &nbsp;·&nbsp; **Operasyon otomasyonu**
+**Operasyon yönetimi** &nbsp;·&nbsp; **İş akışı otomasyonu** &nbsp;·&nbsp; **Kişisel projeler**
 
 <br>
 
@@ -31,7 +31,7 @@ Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği
 - **Kurye uygulaması (PWA)** — çevrimdışı çalışma, barkod okuma, teslim kanıtı
 - **Yönetim paneli** — kiracı yaşam döngüsü, plan/modül paketleri, denetim günlüğü
 
-**Rol:** Mimari ve full-stack geliştirme &nbsp;·&nbsp; **Teknoloji:** NestJS, Next.js, PostgreSQL/PostGIS, Redis, WebSocket &nbsp;·&nbsp; *Kaynak kodu özel*
+**Rol:** Ürün sahibi ve geliştirici &nbsp;·&nbsp; **Teknoloji:** NestJS, Next.js, PostgreSQL/PostGIS, Redis, WebSocket &nbsp;·&nbsp; *Kaynak kodu özel*
 
 <br>
 
