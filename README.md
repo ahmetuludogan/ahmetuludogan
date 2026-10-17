@@ -65,12 +65,14 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
 
 ## Teknoloji
 
-**Backend** &nbsp; TypeScript · Node.js · NestJS · Prisma · PostgreSQL / PostGIS · Redis · Socket.IO · Swagger (OpenAPI)  
-**Frontend** &nbsp; Next.js · React · Tailwind CSS · TanStack Query · MapLibre  
-**Mobil** &nbsp; Swift · UIKit · MapKit · Core Data · PWA  
-**Diğer** &nbsp; Python · Whisper · JavaScript · Chrome uzantısı  
-**Test** &nbsp; Jest · Vitest · Playwright  
-**Altyapı** &nbsp; Docker · GitHub Actions · PM2 · Linux · Turborepo  
+<table>
+  <tr><td width="110"><b>Backend</b></td><td>TypeScript · Node.js · NestJS · Prisma · PostgreSQL / PostGIS · Redis · Socket.IO · Swagger (OpenAPI)</td></tr>
+  <tr><td width="110"><b>Frontend</b></td><td>Next.js · React · Tailwind CSS · TanStack Query · MapLibre</td></tr>
+  <tr><td width="110"><b>Mobil</b></td><td>Swift · UIKit · MapKit · Core Data · PWA</td></tr>
+  <tr><td width="110"><b>Diğer</b></td><td>Python · Whisper · JavaScript · Chrome uzantısı</td></tr>
+  <tr><td width="110"><b>Test</b></td><td>Jest · Vitest · Playwright</td></tr>
+  <tr><td width="110"><b>Altyapı</b></td><td>Docker · GitHub Actions · PM2 · Linux · Turborepo</td></tr>
+</table>
 
 ## İletişim
 
