@@ -56,12 +56,11 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
 <table>
   <tr>
     <td align="center" width="25%" valign="top"><img src="assets/ios-travelbook-harita.webp" alt="TravelBook" width="100%"><br><b><a href="https://github.com/ahmetuludogan/TravelBook">TravelBook</a></b><br><sub>Harita ve kayıtlı yerler · MapKit, Core Data</sub></td>
-    <td align="center" width="25%" valign="top"><img src="assets/ios-artbook.webp" alt="ArtBook" width="100%"><br><b>ArtBook</b><br><sub>Fotoğraflı kayıt defteri · Core Data</sub></td>
+    <td align="center" width="25%" valign="top"><img src="assets/ios-artbook.webp" alt="ArtBook" width="100%"><br><b><a href="https://github.com/ahmetuludogan/ArtBook">ArtBook</a></b><br><sub>Fotoğraflı kayıt defteri · Core Data</sub></td>
     <td align="center" width="25%" valign="top"><img src="assets/ios-catchthekenny.webp" alt="CatchTheKenny" width="100%"><br><b><a href="https://github.com/ahmetuludogan/CatchTheKenny">CatchTheKenny</a></b><br><sub>Zamanlı dokunma oyunu · Timer</sub></td>
     <td align="center" width="25%" valign="top"><img src="assets/ios-simplecalculator.webp" alt="SimpleCalculator" width="100%"><br><b><a href="https://github.com/ahmetuludogan/Simple-Calculator">SimpleCalculator</a></b><br><sub>Hesap makinesi</sub></td>
   </tr>
 </table>
-
 
 <br>
 <!-- IOS-IZGARA-SON -->
