@@ -73,8 +73,3 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
   <tr><td width="110"><b>Test</b></td><td>Jest · Vitest · Playwright</td></tr>
   <tr><td width="110"><b>Altyapı</b></td><td>Docker · GitHub Actions · PM2 · Linux · Turborepo</td></tr>
 </table>
-
-## İletişim
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmetuludogan-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetuludogan/) [![E-posta](https://img.shields.io/badge/E--posta-ahmtuludgn42%40hotmail.com-1F2937?style=flat-square&logo=maildotru&logoColor=white)](mailto:ahmtuludgn42@hotmail.com)
-
