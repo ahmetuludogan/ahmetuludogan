@@ -80,5 +80,5 @@ Gezilen yerleri haritada işaretleyip notlarıyla birlikte cihazda saklayan iOS 
 
 ## İletişim
 
-[![E-posta](https://img.shields.io/badge/E--posta-ahmtuludgn42%40hotmail.com-1F2937?style=flat-square&logo=maildotru&logoColor=white)](mailto:ahmtuludgn42@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmetuludogan-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetuludogan/) [![E-posta](https://img.shields.io/badge/E--posta-ahmtuludgn42%40hotmail.com-1F2937?style=flat-square&logo=maildotru&logoColor=white)](mailto:ahmtuludgn42@hotmail.com)
 
