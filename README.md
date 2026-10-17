@@ -39,7 +39,10 @@ Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği
 
 ### Temiz Çal — Spotify için içerik filtresi
 
-<img alt="Temiz Çal — kısma zaman çizelgesi" src="assets/temizcal-nasil.webp" width="62%">
+<p>
+  <img alt="Temiz Çal — kısma zaman çizelgesi" src="assets/temizcal-nasil.webp" width="66%">
+  <img alt="Temiz Çal — Spotify üzerindeki kontrol paneli" src="assets/temizcal-panel.webp" width="30%">
+</p>
 
 Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği anlarda sesi kısan filtre. Zaman damgalı sözlerden saniye hassasiyetinde bir kısma planı çıkarır; sözü bulunmayan şarkılar için konuşma tanıma (Whisper) ile zaman damgası üretir.
 
