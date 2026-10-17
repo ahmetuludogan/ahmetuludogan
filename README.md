@@ -7,8 +7,6 @@
 
 Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğüm ihtiyaçlardan yola çıkarak hem işimi kolaylaştıran hem de kişisel yazılımlar geliştiriyorum.
 
-**Operasyon** &nbsp;·&nbsp; **Otomasyon** &nbsp;·&nbsp; **Kişisel projeler**
-
 <br>
 
 ## Öne çıkan proje
