@@ -21,7 +21,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
   <img alt="Novajet kurye uygulaması — dağıtım rotası" src="assets/novajet-kurye-rota.webp" width="22%">
 </p>
 
-Kargo firmalarının sipariş, kurye ve filo operasyonunu tek yerden yönettiği çok kiracılı teslimat platformu.
+Novadan için geliştirdiğim; sipariş, kurye ve filo operasyonunu tek yerden yöneten teslimat platformu. Novadan, İstanbul'daki kendi kurye teslimatlarını her gün Novajet üzerinden yönetiyor.
 
 - **Kapasiteye dayalı kurye atama** ve sıralı sevkiyat kuyruğu
 - **Rota optimizasyonu** — gerçek yol mesafesi ve saate göre trafik katsayısı
