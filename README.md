@@ -11,14 +11,14 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 
 ## Öne Çıkan Proje
 
-### Novajet — Teslimat Operasyon Platformu
+### [Novajet](https://panel.novajet.co) — Teslimat Operasyon Platformu
 
 <p>
-  <picture>
+  <a href="https://panel.novajet.co"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/novajet-bolgeler-dark.webp">
     <img alt="Novajet operasyon paneli — bölge haritası" src="assets/novajet-bolgeler-light.webp" width="76%">
-  </picture>
-  <img alt="Novajet kurye uygulaması — dağıtım rotası" src="assets/novajet-kurye-rota.webp" width="22%">
+  </picture></a>
+  <a href="https://panel.novajet.co"><img alt="Novajet kurye uygulaması — dağıtım rotası" src="assets/novajet-kurye-rota.webp" width="22%"></a>
 </p>
 
 [Novadan](https://www.novadan.com.tr) için geliştirdiğim; sipariş, kurye ve filo operasyonunu tek yerden yöneten teslimat platformu. Novadan, İstanbul'daki kendi kurye teslimatlarını her gün Novajet üzerinden yönetiyor.
@@ -29,7 +29,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 - **Kurye uygulaması (PWA)** — çevrimdışı çalışma, barkod okuma, teslim kanıtı
 - **Yönetim paneli** — kiracı yaşam döngüsü, plan/modül paketleri, denetim günlüğü
 
-**Rol:** Ürün sahibi ve geliştirici &nbsp;·&nbsp; **Teknoloji:** NestJS, Next.js, PostgreSQL/PostGIS, Redis, WebSocket &nbsp;·&nbsp; *Kaynak kodu özel*
+**Rol:** Ürün sahibi ve geliştirici &nbsp;·&nbsp; **Teknoloji:** NestJS, Next.js, PostgreSQL/PostGIS, Redis, WebSocket &nbsp;·&nbsp; *Kaynak kodu özel* &nbsp;·&nbsp; [panel.novajet.co](https://panel.novajet.co)
 
 <br>
 
