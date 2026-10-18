@@ -9,7 +9,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 
 <br>
 
-## Öne çıkan proje
+## Öne Çıkan Proje
 
 ### Novajet — Son kilometre teslimat platformu
 
@@ -33,7 +33,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 
 <br>
 
-## Diğer projeler
+## Diğer Projeler
 
 ### Temiz Çal — Spotify için içerik filtresi
 
@@ -49,7 +49,7 @@ Spotify'da çalan şarkıyı durdurmadan, yalnızca uygunsuz sözün geçtiği a
 <br>
 
 <!-- IOS-IZGARA-BAS -->
-## iOS projeleri (Swift)
+## iOS Projeleri (Swift)
 
 <table>
   <tr>
