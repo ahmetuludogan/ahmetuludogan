@@ -11,7 +11,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 
 ## Öne Çıkan Proje
 
-### Novajet — Son kilometre teslimat platformu
+### Novajet — Teslimat Operasyon Platformu
 
 <p>
   <picture>
