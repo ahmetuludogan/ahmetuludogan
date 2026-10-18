@@ -35,7 +35,7 @@ Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğ�
 
 ## Diğer Projeler
 
-### Temiz Çal — Spotify için içerik filtresi
+### Temiz Çal — Spotify'da Uygunsuz Sözleri Susturan Filtre
 
 <p>
   <img alt="Temiz Çal — kısma zaman çizelgesi" src="assets/temizcal-nasil.webp" width="66%">
