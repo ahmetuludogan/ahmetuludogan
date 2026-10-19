@@ -7,6 +7,8 @@
 
 Bilgisayar mühendisliği mezunu bir operasyon yöneticisiyim. Sahada gördüğüm ihtiyaçlardan yola çıkarak hem işimi kolaylaştıran hem de kişisel yazılımlar geliştiriyorum.
 
+🌐 [ahmetuludogan.com](https://www.ahmetuludogan.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmetuludogan/)
+
 <br>
 
 ## Öne Çıkan Proje
